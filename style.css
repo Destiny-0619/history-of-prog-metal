@@ -49,7 +49,7 @@ nav a:hover {
 }
 
 header {
-  background-image: url("https://assets.codepen.io/5665202/intervals+%28heading%29.jpeg");
+  background-image: url("images/intervals\ \(heading\).jpeg");
   background-size: cover;
   height: 75vh;
   position: relative;
@@ -83,7 +83,7 @@ header .title {
 }
 
 .description {
-  background-image: url("https://assets.codepen.io/5665202/microphone_1.jpg");
+  background-image: url("images/microphone.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: -280px 0;
@@ -118,7 +118,7 @@ header .title {
 /* origination section*/
 
 .origination {
-  background-image: url("https://assets.codepen.io/5665202/guitar2_2.jpg");
+  background-image: url("images/guitar2.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-color: black;
@@ -152,7 +152,8 @@ header .title {
 .album-title {
   text-align: center;
   padding: 75px;
-  color: #8e9da4;
+  color: #cde1eb;
+  background-color: #6d7f8c;
 }
 
 a {
@@ -233,22 +234,22 @@ a {
 }
 
 .pimg1 {
-  background-image: url("https://assets.codepen.io/5665202/polyphia.jpeg");
+  background-image: url("images/polyphia.jpeg");
   min-height: 400px;
 }
 
 .pimg2 {
-  background-image: url("https://assets.codepen.io/5665202/animals+as+leaders.jpeg");
+  background-image: url("images/animals\ as\ leaders.jpeg");
   min-height: 400px;
 }
 
 .pimg3 {
-  background-image: url("https://assets.codepen.io/5665202/periphery.jpg");
+  background-image: url("images/periphery.jpg");
   min-height: 400px;
 }
 
 .pimg4 {
-  background-image: url("https://assets.codepen.io/5665202/sleep+token.jpg");
+  background-image: url("images/sleep\ token.jpg");
   min-height: 400px;
 }
 
