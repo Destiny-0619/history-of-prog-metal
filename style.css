@@ -17,7 +17,7 @@ p {
   font-weight: 400;
   font-style: normal;
   font-size: 14px;
-  line-height: 30px;
+  line-height: 25px;
 }
 
 .topnav {
@@ -102,7 +102,7 @@ header .title {
 }
 
 .section-title {
-  background-color: #cccccc;
+  background-color: #404040;
   padding: 25px;
   border-radius: 20px;
 }
@@ -141,7 +141,7 @@ header .title {
 }
 
 .origination-title h1 {
-    background-color: #cccccc;
+    background-color: #404040;
   padding: 25px;
   border-radius: 20px;
   
@@ -153,7 +153,7 @@ header .title {
   text-align: center;
   padding: 75px;
   color: #cde1eb;
-  background-color: #6d7f8c;
+  background-color: #404040;
 }
 
 a {
